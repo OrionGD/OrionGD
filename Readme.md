@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=G%20O%20D%20F%20R%20E%20Y&fontColor=06b6d4&fontSize=100&animation=hollow&fontAlignY=55"/>
-
+<img src=logo.png>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=20&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=1100&lines=>_+INITIATING_NEURAL_LINK_...;>_+LOADING_XR_ENVIRONMENTS_...;>_+SYNTHESIZING_AI_ARCHITECTURES_...;>_+SYSTEM_STATUS:+OPTIMAL" />
